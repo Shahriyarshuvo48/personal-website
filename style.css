@@ -11,15 +11,12 @@ li{
     padding: 10px 20px;
 }
 .second{
-    border: 1px solid red;
     height: 630px;
 }
 .third{
-    border: 1px solid black;
     height: 600px;
 }
 .fourth{
-    border: 1px solid blue;
     height: 600px;
     background-color: #F7F9F9;
 }
@@ -62,11 +59,12 @@ p{
 }
 .latest{
 
-    margin: 100px 100px;
+    margin: 100px 200px;
     padding-right: 20px; 
 }
 .latest-hilight{
     color: crimson;
+    text-align: center;
 }
 .image-box{
     float: left;
